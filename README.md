@@ -1,4 +1,4 @@
-# house-pricing
+# Ames Housing Price Prediction
 Publishing my workings for Kaggle's house price prediction problem.
 
 The problem and dataset can be found on Kaggle https://www.kaggle.com/c/home-data-for-ml-course/overview.<br>
